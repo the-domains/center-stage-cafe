@@ -2,6 +2,7 @@ name: Center Stage Cafe
 favicon: null
 layout_spectrum: 0.99191
 typography_spectrum: 0.85342
+title: Center Stage Cafe
 cta:
   domain: null
   bucket: null
