@@ -1,41 +1,28 @@
-title: Center Stage Cafe
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-color:
-  saturation: 0.8518335348926485
-  brandStrength: 0.9818620611913502
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#000000'
-    - '#fcfef9'
-    - '#bec2ff'
-    - '#9578f8'
-    - '#7d2322'
-  lightness: 0.6308002597652376
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 name: Center Stage Cafe
 favicon: null
+layout_spectrum: 0.6613870717119426
+typography_spectrum: 0.5464846657123417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.85342
-layout_spectrum: 0.2741936
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9818620611913502
+  lightness: 0.6308002597652376
+  saturation: 0.8518335348926485
+  rhythmicContrast: 0.5174486229661852
+purpose: []
