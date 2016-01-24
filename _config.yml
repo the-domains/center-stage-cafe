@@ -1,7 +1,20 @@
 name: Center Stage Cafe
 favicon: null
-layout_spectrum: 0.6613870717119426
-typography_spectrum: 0.5464846657123417
+layout_spectrum: 0.2741936
+typography_spectrum: 0.85342
+title: Center Stage Cafe
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
@@ -16,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.9818620611913502
-  lightness: 0.6308002597652376
-  saturation: 0.8518335348926485
-  rhythmicContrast: 0.5174486229661852
+    - '#fefefe'
+    - '#313131'
+    - '#e0e0e0'
+    - '#b8b8b8'
+    - '#606060'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
